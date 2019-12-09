@@ -30,3 +30,5 @@ Email : yongsoo0709@naver.com
  영상마다의 흐름,색깔,분위기 등을 느끼고 감상하는것에 흥미가 있다.
  
  촬영감독 같은 직종에 관심이있다.
+ 
+ <img src="file:///C:/Users/%EA%B3%A0%EC%A4%80%ED%98%81/Desktop/%EC%86%90%EC%9A%A9%EC%88%98%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.JPG" width="90%"></img>
