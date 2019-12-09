@@ -1,3 +1,43 @@
-# Test
+# Ms.ChaeYong Kang
 
-반갑다 나는 손용수다.
+> Kangwon National University
+
+ Major in Media Engineering 
+ 
+sophomore in University (2019) <br>
+
+Email : mayp0524@gmail.com 
+
+# Interested In
+
+ VFX & Coloring 
+ 
+ I was very interested in VFX since high school
+ But I have interested in coloring recently
+ 
+ If I can, I want to have a job related to both
+ 
+ 
+# My abilities
+
+> PROGRAMING LANGUAGE <br>
+-  JAVA
+-  C++
+
+> DESIGN <br>
+-  Premere Pro
+-  After Effect
+-  Photoshop
+-  Maya
+-  Color
+
+I'm able to use Premiere well and I'll study coloring programs as soon as possible
+
+
+# Project
+- PHONEBOOK : Create a phone book for college assignment (C++)
+
+By analyzing and planning the functions required for the program, creating a flowchart, and designing it based on the written flowchart,  created by implementing the code.
+
+
+- V-log : Create a video for Club activities
