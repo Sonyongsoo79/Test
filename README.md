@@ -31,4 +31,4 @@ Email : yongsoo0709@naver.com
  
  촬영감독 같은 직종에 관심이있다.
  
- <img src="file:///C:/Users/%EA%B3%A0%EC%A4%80%ED%98%81/Desktop/%EC%86%90%EC%9A%A9%EC%88%98%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.JPG" width="90%"></img>
+ <img src="https://user-images.githubusercontent.com/58691885/70438661-a52e8d80-1ad1-11ea-9e2a-71ceec5ea232.JPG"></img>
