@@ -1,43 +1,32 @@
-# Ms.ChaeYong Kang
+# Son yongsoo
 
-> Kangwon National University
+> 강원대학교 삼척캠퍼스
 
- Major in Media Engineering 
- 
-sophomore in University (2019) <br>
+ 전공 : 소프트미디어웨어 공학 
+ 2학년 재학
 
-Email : mayp0524@gmail.com 
+Email : yongsoo0709@naver.com 
 
-# Interested In
-
- VFX & Coloring 
- 
- I was very interested in VFX since high school
- But I have interested in coloring recently
- 
- If I can, I want to have a job related to both
  
  
-# My abilities
+# 나의 능력
 
-> PROGRAMING LANGUAGE <br>
--  JAVA
+- 프리미어
+-  자바
 -  C++
 
-> DESIGN <br>
--  Premere Pro
--  After Effect
--  Photoshop
--  Maya
--  Color
-
-I'm able to use Premiere well and I'll study coloring programs as soon as possible
 
 
-# Project
-- PHONEBOOK : Create a phone book for college assignment (C++)
+# 프로젝트
+- C언어를 사용한 전화번호부 제작, 비디오 대여 프로그램, 플래시 메모리등 제작
+- 단편영화제작, 공모전 영상제작
 
-By analyzing and planning the functions required for the program, creating a flowchart, and designing it based on the written flowchart,  created by implementing the code.
 
 
-- V-log : Create a video for Club activities
+# 관심분야
+
+ 영상,사진 
+ 
+ 영상마다의 흐름,색깔,분위기 등을 느끼고 감상하는것에 흥미가 있다.
+ 
+ 촬영감독 같은 직종에 관심이있다.
